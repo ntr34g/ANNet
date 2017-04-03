@@ -74,3 +74,4 @@ classifier = KerasClassifier(build_fn = build_classifier, batch_size = 10, nb_ep
 accuracies = cross_val_score(estimator = classifier, X= X_train, y = y_train, cv = 10, n_jobs = -1)
 mean = accuracies.mean()
 variance = accuracies.std()
+
