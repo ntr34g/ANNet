@@ -1,1 +1,1 @@
-Artificial intelligence, Data science algorithms libraries
+Artificial intelligence, Data science algorithms examples
